@@ -1,0 +1,285 @@
+#title {
+  background-color: #a2d0c1;
+  color: white;
+}
+
+title {
+  padding-bottom: 100px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+  font-weight: 900;
+}
+
+p {
+  color: #838282;
+}
+
+.big-heading {
+  font-size: 4.5rem;
+  font-weight: 900;
+  line-height: 1.5;
+  text-align: center;
+  padding-top: 8%;
+}
+
+@media (max-width: 601px) {
+  .big-heading {
+    font-size: 3rem;
+    text-align: left;
+  }
+}
+
+.description-title {
+  font-family: "Montserrat", sans-serif;
+  size: 3.5rem;
+  font-weight: 300;
+  text-align: center;
+  opacity: 70%;
+}
+
+.description-profile {
+  font-family: "Montserrat", sans-serif;
+  size: 1.2rem;
+  font-weight: 300;
+  text-align: center;
+  opacity: 90%;
+}
+
+.description-experience {
+  font-weight: 200;
+  margin-left: 20%;
+  text-align: left;
+  opacity: 90%;
+  margin-bottom: 3%;
+}
+
+.title-exp {
+  padding-top: 50px;
+}
+
+.profile {
+  margin: auto;
+  width: 75%;
+  position: relative;
+}
+
+.container-fluid {
+  padding: 3% 15% 12%;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.navbar {
+  padding: 0 0 2.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+}
+
+#profile {
+  padding: 7% 15%;
+  background-color: white;
+  text-align: center;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.no-gutters {
+  margin-left: 7px;
+  margin-right: 7px;
+}
+
+#projects {
+  text-align: center;
+  background-color: #a2d0c1;
+  color: white;
+}
+
+.project-image {
+  width: 40%;
+  height: 100%;
+  border-radius: 10%;
+  margin: 20px;
+  opacity: 85%;
+}
+
+.project-image:hover {
+  opacity: 100%;
+}
+
+#experience {
+  background-color: #eff7e1;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.carousel-item {
+  padding: 2% 15%;
+}
+
+#pricing {
+  padding: 100px;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+  text-align: center;
+}
+
+.class-header {
+  padding-top: 10px;
+  background-color: rgb(204, 204, 204);
+}
+
+.top-stuff {
+  text-align: center;
+}
+
+.bottom-p {
+  margin-bottom: 57px;
+}
+
+.low-title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  size: 5rem;
+  font-weight: bold;
+}
+
+#footer {
+  text-align: center;
+  background-color: #eff7e1;
+  padding: 40px 0 20px;
+  width: 100%;
+}
+
+#contact {
+  text-align: center;
+  padding: 40px 0 20px;
+  width: 100%;
+}
+
+.icons {
+  padding: 15px;
+}
+
+hr {
+  width: 40%;
+}
+
+@media (max-width: 601px) {
+  hr {
+    font-size: 70%;
+  }
+}
+
+.row {
+  text-align: left;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.school {
+  font-weight: 400;
+  line-height: 1;
+  font-size: large;
+}
+
+.school-description {
+  padding-left: 8%;
+}
+
+a {
+  color: #7b9e92;
+}
+
+a:hover {
+  color: #668379;
+  text-decoration: none;
+}
+
+education-line {
+  padding-left: 80px;
+}
+
+.schools {
+  margin-left: 20%;
+}
+
+.description-projects {
+  font-weight: 200;
+  text-align: center;
+  opacity: 90%;
+}
+
+.btn {
+  margin-bottom: 2%;
+}
+
+.contact {
+  font-family: "Montserrat", sans-serif;
+  size: 1.2rem;
+  font-weight: 300;
+  text-align: center;
+  opacity: 90%;
+  padding-top: 0;
+  padding-bottom: 2%;
+}
+
+.copyright {
+  padding-top: 1%;
+}
+
+.work {
+  padding-bottom: 5%;
+}
+
+#skills {
+  background-color: white;
+}
+
+.table {
+  text-align: center;
+}
+
+.rating {
+  text-align: right;
+}
+
+li {
+  margin: 10px 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+.skills {
+  margin-bottom: 50px;
+}
+
+.disclaimer {
+  margin-top: 3%;
+}
